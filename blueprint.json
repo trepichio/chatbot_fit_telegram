@@ -1,0 +1,7 @@
+{
+  "text": "Este é um repositório com um pequeno projeto de chat bot fitness para Telegram, que entrega links de vídeos de treinos físicos no youtube requisitados pelo usuário no chat do Bot. Foi desenvolvido utilizando Node.js e Google DialogFlow durante o Bootcamp de NodeJS da plataforma Digital Innovation One<a href='http://digitalinnovationone.one'>(DIO)</a>.",
+  "ids": {
+    "github": "trepichio/readme"
+  },
+  "line": "dark"
+}
